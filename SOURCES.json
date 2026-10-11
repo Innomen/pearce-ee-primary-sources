@@ -1,0 +1,140 @@
+{
+  "prepared": "2026-10-11",
+  "publication_status": "Public GitHub release authorized by author on 2026-10-11",
+  "method": "Selected participant statements from public exchanges, with source provenance and explicit gaps. Writing-process records and links are excluded.",
+  "sources": [
+    {
+      "id": "X-01",
+      "title": "Public X rounds: realism, experience and cosmological history",
+      "path": "sources/X-01.md",
+      "record_type": "author-preserved public transcript excerpts",
+      "source_url": "https://x.com/webmasterdave/status/2066149552994869712",
+      "time": "Round 2 author reply marked posted 2026-06-15; other exact dates unresolved",
+      "limitations": "Locator identifies surrounding exchange, not independently authenticated permalinks for every reply. Round 1 author answer contains a bracketed editorial abbreviation. Posted status comes from the author record; unused rewrites excluded.",
+      "sha256": "9a42a5474f00b3aad5bd6c9fb78c9d471549bcc68064a18d3986d643c6a50519",
+      "original_sha256": null
+    },
+    {
+      "id": "FB-01",
+      "title": "Facebook EE/NMP reply branch",
+      "path": "sources/FB-01.md",
+      "record_type": "curated faithful transcription",
+      "source_url": "https://www.facebook.com/brandon.sergent/posts/pfbid0EA2fC3T4St3zAZkRrouf7zcz7L9akkwcPqxrex438wL5ERvytNHRVA1opdcFbH4dl?comment_id=818563421343391",
+      "time": "Post displays August 5 without year; August 2026 screenshots separately anchor portions of the exchange. Reply labels retained. Research capture prepared 2026-10-11.",
+      "limitations": "Only recovered Brandon Sergent/David Pearce branch. Collapsed replies unavailable. Social controls, duplicate link cards and unrelated third-party comment removed. Original capture JSON is not distributed. Spelling retained. A writing-process redirect is omitted and marked; no prompting or process-conversation link is included.",
+      "sha256": "14ae69cab0097a6411a532db957ae29e013e07c6274607d364782c4ddfdfec4c",
+      "original_sha256": "0ff17182844021b0456d66c6fa9cfc39668a45373742eafb3cedc4d1b58c6754"
+    },
+    {
+      "id": "YT-01",
+      "title": "YouTube other-minds, bridge and NMP exchange",
+      "path": "sources/YT-01.md",
+      "record_type": "author-preserved public comment transcript",
+      "source_url": "https://www.youtube.com/watch?v=sRUUIT1VgHM&lc=UgxdjgqHB4SvKGjw2-F4AaABAg.A_7gy1OP24iAb8YMi8yzPu",
+      "time": null,
+      "limitations": "Displayed relative times retained; exact late-comment dates unresolved. August 7 screenshot separately corroborates first Pearce bridge answer and an author response version. Transcript author response includes an additional closing sentence absent from that screenshot. Opening numerical claim about horror is the author’s rhetoric, not a verified statistic. No claim of complete live authentication or separate exchanges from edited variants.",
+      "sha256": "cca450ff9fe72acc1895abd570d125162eb413d2037b44efc5130144575b6e43",
+      "original_sha256": null
+    },
+    {
+      "id": "CAP-01",
+      "title": "YouTube bridge objection and posted answer",
+      "path": "captures/CAP-01.png",
+      "record_type": "screenshot derivative: ancillary PNG metadata removed; pixels unchanged",
+      "source_url": "https://www.youtube.com/watch?v=sRUUIT1VgHM&lc=UgxdjgqHB4SvKGjw2-F4AaABAg.A_7gy1OP24iAb8YMi8yzPu",
+      "time": "2026-08-07T19:29:04-05:00",
+      "time_kind": "capture timestamp from local OCR provenance, not independently authenticated post time",
+      "original_sha256": "9733d63c1ceebb0a3920825ea87575bd66031394617c126ee0be2371efd72366",
+      "sha256": "6136a75cc9cd623f99f8b034f693a9ab4fef2907399365c4284902e26edc3f49",
+      "limitations": "Relative platform labels retained."
+    },
+    {
+      "id": "CAP-02",
+      "title": "Facebook other-minds answer and profession of incomprehension",
+      "path": "captures/CAP-02.png",
+      "record_type": "screenshot derivative: ancillary PNG metadata removed; pixels unchanged",
+      "source_url": "https://www.facebook.com/brandon.sergent/posts/pfbid0EA2fC3T4St3zAZkRrouf7zcz7L9akkwcPqxrex438wL5ERvytNHRVA1opdcFbH4dl?comment_id=818563421343391",
+      "time": "2026-08-08T11:40:43-05:00",
+      "time_kind": "capture timestamp from local OCR provenance, not independently authenticated post time",
+      "original_sha256": "4b978af34d069044bab2860d18400431ba692d6c6aa784af9d56b0da53b783c2",
+      "sha256": "e5ea33d075d0bdc23bd8be7b1f4a50cdbe184a11acef3ae2cb525c3595b501eb",
+      "limitations": "Top question fragment lacks a visible speaker header; attribution not inferred."
+    },
+    {
+      "id": "CAP-03",
+      "title": "Posted bridge answer: compelling inference is not proof",
+      "path": "captures/CAP-03.png",
+      "record_type": "screenshot derivative: ancillary PNG metadata removed; pixels unchanged",
+      "source_url": null,
+      "time": "2026-08-12T12:29:07-05:00",
+      "time_kind": "capture timestamp from local OCR provenance, not independently authenticated post time",
+      "original_sha256": "6efc83372bc524ebaa845728e07e308605ba5cd664c632e2eef0c457d0ee5242",
+      "sha256": "5149977160ae6200c6fcc0384aa73e4e9d5cbfcad70e82b5bcf711505074b20a",
+      "limitations": "Individual comment permalink not recovered."
+    },
+    {
+      "id": "CAP-04",
+      "title": "Posted public comment linking Hedonic Core, RRT and cryonics",
+      "path": "captures/CAP-04.png",
+      "record_type": "screenshot derivative: ancillary PNG metadata removed; pixels unchanged",
+      "source_url": null,
+      "time": "2026-08-06T10:03:20-05:00",
+      "time_kind": "capture timestamp from local OCR provenance, not independently authenticated post time",
+      "original_sha256": "64332517f0b0f9abec0282e1a05b2e902a1b42e2f59dbe1f92f48de9e6cc24c9",
+      "sha256": "866974807b20d4945c1240f9398e47207fc52a1f62c11c2f853bfa6bd90f3b9b",
+      "limitations": "Individual comment permalink not recovered."
+    },
+    {
+      "id": "CAP-05",
+      "title": "Posted Facebook ablation challenge and Bridge Trap link",
+      "path": "captures/CAP-05.png",
+      "record_type": "screenshot derivative: ancillary PNG metadata removed; pixels unchanged",
+      "source_url": "https://www.facebook.com/brandon.sergent/posts/pfbid0EA2fC3T4St3zAZkRrouf7zcz7L9akkwcPqxrex438wL5ERvytNHRVA1opdcFbH4dl?comment_id=818563421343391",
+      "time": "2026-08-07T08:01:39-05:00",
+      "time_kind": "capture timestamp from local OCR provenance, not independently authenticated post time",
+      "original_sha256": "6e4d9aa35d971c49d9e30d85488e39b3f34a6f8f5752f334dd198347db3bc27a",
+      "sha256": "7d9afff6b50ed88236880275a8e8c4663757d42c7577d6e7495a1e5c0198957b",
+      "limitations": "Public recovered branch corroborates the comment. Its later text includes a parenthetical absent from this screenshot; edited variants are not separate replies. Capture date is not exact comment date."
+    },
+    {
+      "id": "TX-01",
+      "title": "Visually checked screenshot excerpts",
+      "path": "sources/TX-01.md",
+      "record_type": "visually checked excerpts with separate editorial annotations",
+      "source_url": null,
+      "time": "Capture timestamps supplied in manifest; CAP-05 displays a relative 1m label, not June 25, 2025.",
+      "limitations": "Excerpts were compared against images. Paragraphs outside blockquotes are editorial descriptions, not quotations. Images remain the authority for spacing, typography and surrounding text.",
+      "sha256": "76d46d3ebd8c0997b325bcd1f05ec2bf470d6f9b51b47964e464e2df08af2554",
+      "original_sha256": null
+    },
+    {
+      "id": "FB-02",
+      "title": "Pearce considers AI-assisted clarification; author requests criticism",
+      "path": "sources/FB-02.md",
+      "record_type": "visually checked excerpts",
+      "source_url": null,
+      "time": "Screenshot capture recorded 2026-08-10T09:15:26-05:00",
+      "limitations": "Screenshot not included because of unrelated third-party post heading. Original comment permalink unresolved; original screenshot retained in author custody, not in this publication directory. Capture time is not exact reply time. Excerpt does not claim the author’s “7 times” assertion was independently audited.",
+      "sha256": "63d42d222f288826eccded921930832d06341bf121e8950cb5454a80c0b2476d",
+      "original_sha256": "bc941726ddb19128f143ae1c50a689b5a062587a8c40118543c0537fa2c4175b"
+    }
+  ],
+  "files": {
+    "README.md": "e7b78a480ea4d6f4fa87701d263064b69450140aef97c3716feb06a54c241fb4",
+    "INDEX.md": "2aaf3c962d2ca94881fa25e067b3bc1335a4e91e49fba119c427715399620a19",
+    "PRIVACY-REVIEW.md": "e1c2cf876f51c39756f900ec4aacc65f041b28708bc8858d1c4f63104c983967",
+    ".gitignore": "be71ea651a059550c7ab431a46a17d62166ded7b7ef75bdc03161ca810798ec8",
+    "verify.py": "73592fc0c0cc729733336f62e2cd8af7ecd23f5d08175558177323b2fef4ce2a",
+    "sources/X-01.md": "9a42a5474f00b3aad5bd6c9fb78c9d471549bcc68064a18d3986d643c6a50519",
+    "sources/FB-01.md": "14ae69cab0097a6411a532db957ae29e013e07c6274607d364782c4ddfdfec4c",
+    "sources/YT-01.md": "cca450ff9fe72acc1895abd570d125162eb413d2037b44efc5130144575b6e43",
+    "sources/TX-01.md": "76d46d3ebd8c0997b325bcd1f05ec2bf470d6f9b51b47964e464e2df08af2554",
+    "sources/FB-02.md": "63d42d222f288826eccded921930832d06341bf121e8950cb5454a80c0b2476d",
+    "captures/CAP-01.png": "6136a75cc9cd623f99f8b034f693a9ab4fef2907399365c4284902e26edc3f49",
+    "captures/CAP-02.png": "e5ea33d075d0bdc23bd8be7b1f4a50cdbe184a11acef3ae2cb525c3595b501eb",
+    "captures/CAP-03.png": "5149977160ae6200c6fcc0384aa73e4e9d5cbfcad70e82b5bcf711505074b20a",
+    "captures/CAP-04.png": "866974807b20d4945c1240f9398e47207fc52a1f62c11c2f853bfa6bd90f3b9b",
+    "captures/CAP-05.png": "7d9afff6b50ed88236880275a8e8c4663757d42c7577d6e7495a1e5c0198957b"
+  },
+  "repository_url": "https://github.com/Innomen/pearce-ee-primary-sources"
+}

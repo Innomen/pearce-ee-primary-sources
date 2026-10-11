@@ -1,0 +1,13 @@
+# David Pearce / Experiential Empiricism: selected primary-source record
+
+Prepared October 11, 2026 by Brandon M. Sergent. Publication was explicitly authorized by the author on October 11, 2026. This is the selected public documentary archive supporting the paper; it is not an exhaustive reconstruction of every exchange. It supports the participant-authored polemic *The Philosopher Who Led Me Toward Suffering Abolition*. The author disputes Pearce’s philosophy and conduct; the archive separates source evidence from that judgment.
+
+Start with the [chronological index](INDEX.md), [source manifest](SOURCES.json), and [privacy and publication review](PRIVACY-REVIEW.md). The manifest gives record types, original and derivative SHA-256 hashes, source locators where recovered, and limitations. Public names/handles identifying the two participants and public comment locators are retained for attribution. They are not account credentials.
+
+The corpus includes selected public X rounds, a recovered Facebook branch, an author-preserved YouTube transcript, visually checked screenshot excerpts, and five screenshot derivatives. PNG ancillary metadata was removed without changing pixels. These derivatives are **not byte-identical original captures**. Original hashes are recorded separately; originals remain in author custody. No original screenshot is treated as proof that its capture clock or the platform’s relative labels are independently authenticated.
+
+Only the participants’ exchanged statements and the evidence needed to identify them are included. Private messages, writing-process records and links, account/session data, and unrelated third-party material are excluded. A copy of an edited comment does not recover its earlier wording. The selection is not exhaustive, and the manifest explicitly records missing permalinks and chronology gaps.
+
+Replies are evidence of participation. Whether they engage an already supplied objection requires reading both sides in sequence. The index identifies the relevant sequence rather than counting replies as resolutions. No assertion of bad faith follows merely from repetition.
+
+Run `python3 verify.py` before distribution. It checks the exact allowlist and hashes, PNG metadata exclusion, and common secret/private-path patterns. This bounded gate supplements human review; it does not certify that every public quotation is licensed for redistribution. No blanket open-source license is assigned to third-party statements. The author authorized release of this prepared selection. Missing source records and edited-version differences remain documented limitations; no private material is authorized by this release.

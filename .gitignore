@@ -1,0 +1,11 @@
+*
+!/.gitignore
+!/README.md
+!/INDEX.md
+!/SOURCES.json
+!/PRIVACY-REVIEW.md
+!/verify.py
+!/sources/
+!/sources/*.md
+!/captures/
+!/captures/CAP-*.png
